@@ -6,3 +6,9 @@ setting up the repository for the project, made a python script that would scrap
 -------------------------------------------------------------------------------------------------------------------------------------
 5/15/23 <br>
 worked on scraping data from a wikipedia page, specifically for "toy story 2", also started scraping data off imdb for the top 250 movies sorted by gross 
+-------------------------------------------------------------------------------------------------------------------------------------
+5/16/23 <br>
+worked on scraping the top 250 grossing movies. learning as i go with HTML and understanding tags 
+-------------------------------------------------------------------------------------------------------------------------------------
+5/18/23 <br>
+completed scraping the top 250 movies by grossing. really understanding html code now and how to find and extract certain information that i want as well as manipulating said data to the way that i want it presented
