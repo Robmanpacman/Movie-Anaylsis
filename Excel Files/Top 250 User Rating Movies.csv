@@ -1,251 +1,251 @@
-Movie Rank,Movie Name,Year Released,User Rating,Genre,Director,Gross Amount(Millions),Actor1,Actor2,Actor3,Actor4
-1,The Shawshank Redemption,1994,R,Drama,Frank Darabont,28.34,Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
-2,The Godfather,1972,R,Crime,Francis Ford Coppola,134.97,Marlon Brando, Al Pacino, James Caan, Diane Keaton
-3,The Dark Knight,2008,PG-13,Action,Christopher Nolan,534.86,Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
-4,Schindler's List,1993,R,Biography,Steven Spielberg,96.9,Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall
-5,The Godfather Part II,1974,R,Crime,Francis Ford Coppola,57.3,Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton
-6,12 Angry Men,1957,Approved,Crime,Sidney Lumet,4.36,Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler
-7,The Lord of the Rings: The Return of the King,2003,PG-13,Action,Peter Jackson,377.85,Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom
-8,Pulp Fiction,1994,R,Crime,Quentin Tarantino,107.93,John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis
-9,Inception,2010,PG-13,Action,Christopher Nolan,292.58,Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe
-10,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,Action,Peter Jackson,315.54,Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean
-11,Fight Club,1999,R,Drama,David Fincher,37.03,Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier
-12,Forrest Gump,1994,PG-13,Drama,Robert Zemeckis,330.25,Tom Hanks, Robin Wright, Gary Sinise, Sally Field
-13,"The Good, the Bad and the Ugly",1966,Approved,Adventure,Sergio Leone,6.1,Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo Giuffrè
-14,The Lord of the Rings: The Two Towers,2002,PG-13,Action,Peter Jackson,342.55,Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom
-15,Jai Bhim,2021,TV-MA,Crime,T.J. Gnanavel,NULL,Suriya, Lijo Mol Jose, Manikandan K., Rajisha Vijayan
-16,Interstellar,2014,PG-13,Adventure,Christopher Nolan,188.02,Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy
-17,Goodfellas,1990,R,Biography,Martin Scorsese,46.84,Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
-18,The Matrix,1999,R,Action,Lana Wachowski,171.48,Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
-19,One Flew Over the Cuckoo's Nest,1975,R,Drama,Milos Forman,112,Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco
-20,Star Wars: Episode V - The Empire Strikes Back,1980,PG,Action,Irvin Kershner,290.48,Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
-21,The Green Mile,1999,R,Crime,Frank Darabont,136.8,Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt
-22,Star Wars: Episode IV - A New Hope,1977,PG,Action,George Lucas,322.74,Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness
-23,Se7en,1995,R,Crime,David Fincher,100.13,Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker
-24,The Silence of the Lambs,1991,R,Crime,Jonathan Demme,130.74,Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons
-25,Saving Private Ryan,1998,R,Drama,Steven Spielberg,216.54,Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns
-26,Spirited Away,2001,PG,Animation,Hayao Miyazaki,10.06,Daveigh Chase, Suzanne Pleshette, Miyu Irino, Rumi Hiiragi
-27,City of God,2002,R,Crime,Fernando Meirelles,7.56,Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele, Phellipe Haagensen
-28,Terminator 2: Judgment Day,1991,R,Action,James Cameron,204.84,Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick
-29,Life Is Beautiful,1997,PG-13,Comedy,Roberto Benigni,57.6,Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano
-30,Seven Samurai,1954,Not Rated,Action,Akira Kurosawa,0.27,Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki
-31,It's a Wonderful Life,1946,PG,Drama,Frank Capra,NULL,James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell
-32,Harakiri,1962,Not Rated,Action,Masaki Kobayashi,NULL,Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsurô Tanba
-33,Léon: The Professional,1994,R,Action,Luc Besson,19.5,Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello
-34,Parasite,2019,R,Drama,Bong Joon Ho,53.37,Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik
-35,The Departed,2006,R,Crime,Martin Scorsese,132.38,Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
-36,Gladiator,2000,R,Action,Ridley Scott,187.71,Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
-37,Whiplash,2014,R,Drama,Damien Chazelle,13.09,Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser
-38,Back to the Future,1985,PG,Adventure,Robert Zemeckis,210.61,Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
-39,Alien,1979,R,Horror,Ridley Scott,78.9,Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright
-40,The Prestige,2006,PG-13,Drama,Christopher Nolan,53.09,Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine
-41,The Lion King,1994,G,Animation,Roger Allers,422.78,Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg
-42,The Usual Suspects,1995,R,Crime,Bryan Singer,23.34,Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin
-43,Psycho,1960,R,Horror,Alfred Hitchcock,32,Anthony Perkins, Janet Leigh, Vera Miles, John Gavin
-44,The Pianist,2002,R,Biography,Roman Polanski,32.57,Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox
-45,American History X,1998,R,Crime,Tony Kaye,6.72,Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien
-46,The Intouchables,2011,R,Biography,Olivier Nakache,13.18,François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot
-47,Casablanca,1942,PG,Drama,Michael Curtiz,1.02,Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains
-48,Once Upon a Time in the West,1968,PG-13,Western,Sergio Leone,5.32,Henry Fonda, Charles Bronson, Claudia Cardinale, Jason Robards
-49,Grave of the Fireflies,1988,Not Rated,Animation,Isao Takahata,NULL,Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi, Yoshiko Shinohara
-50,Rear Window,1954,PG,Mystery,Alfred Hitchcock,36.76,James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter
-51,Cinema Paradiso,1988,R,Drama,Giuseppe Tornatore,11.99,Philippe Noiret, Enzo Cannavale, Antonella Attili, Isa Danieli
-52,Modern Times,1936,G,Comedy,Charles Chaplin,0.16,Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford
-53,City Lights,1931,G,Comedy,Charles Chaplin,0.02,Charles Chaplin, Virginia Cherrill, Florence Lee, Harry Myers
-54,Avengers: Endgame,2019,PG-13,Action,Anthony Russo,858.37,Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
-55,Spider-Man: Into the Spider-Verse,2018,PG,Animation,Bob Persichetti,190.24,Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali
-56,Avengers: Infinity War,2018,PG-13,Action,Anthony Russo,678.82,Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
-57,Joker,2019,R,Crime,Todd Phillips,335.45,Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy
-58,Oldboy,2003,R,Action,Park Chan-wook,0.71,Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong, Kim Byeong-Ok
-59,Django Unchained,2012,R,Drama,Quentin Tarantino,162.81,Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington
-60,Indiana Jones and the Raiders of the Lost Ark,1981,PG,Action,Steven Spielberg,248.16,Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies
-61,Apocalypse Now,1979,R,Drama,Francis Ford Coppola,83.47,Martin Sheen, Marlon Brando, Robert Duvall, Frederic Forrest
-62,The Shining,1980,R,Drama,Stanley Kubrick,44.02,Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
-63,Come and See,1985,Not Rated,Drama,Elem Klimov,NULL,Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas
-64,The Dark Knight Rises,2012,PG-13,Action,Christopher Nolan,448.14,Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman
-65,Aliens,1986,R,Action,James Cameron,85.16,Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser
-66,Memento,2000,R,Mystery,Christopher Nolan,25.54,Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior
-67,Your Name.,2016,PG,Animation,Makoto Shinkai,5.02,Ryunosuke Kamiki, Mone Kamishiraishi, Ryo Narita, Aoi Yûki
-68,Capernaum,2018,R,Drama,Nadine Labaki,1.66,Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole, Kawsar Al Haddad
-69,Braveheart,1995,R,Biography,Mel Gibson,75.6,Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen
-70,Coco,2017,PG,Animation,Lee Unkrich,209.73,Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach
-71,WALL·E,2008,G,Animation,Andrew Stanton,223.81,Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard
-72,Amadeus,1984,R,Biography,Milos Forman,51.97,F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice
-73,The Lives of Others,2006,R,Drama,Florian Henckel von Donnersmarck,11.29,Ulrich Mühe, Martina Gedeck, Sebastian Koch, Ulrich Tukur
-74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,Comedy,Stanley Kubrick,0.28,Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn
-75,Sunset Blvd.,1950,Passed,Drama,Billy Wilder,NULL,William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson
-76,Das Boot,1981,R,Drama,Wolfgang Petersen,11.49,Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch
-77,3 Idiots,2009,PG-13,Comedy,Rajkumar Hirani,6.53,Aamir Khan, Madhavan, Mona Singh, Sharman Joshi
-78,Paths of Glory,1957,Approved,Drama,Stanley Kubrick,NULL,Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready
-79,Witness for the Prosecution,1957,Approved,Crime,Billy Wilder,8.18,Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester
-80,The Great Dictator,1940,G,Comedy,Charles Chaplin,0.29,Charles Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner
-81,High and Low,1963,Not Rated,Crime,Akira Kurosawa,NULL,Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai, Kyôko Kagawa
-82,Guardians of the Galaxy Vol. 3,2023,PG-13,Action,James Gunn,NULL,Chris Pratt, Chukwudi Iwuji, Bradley Cooper, Pom Klementieff
-83,Heat,1995,R,Action,Michael Mann,67.44,Al Pacino, Robert De Niro, Val Kilmer, Jon Voight
-84,Top Gun: Maverick,2022,PG-13,Action,Joseph Kosinski,718.73,Tom Cruise, Jennifer Connelly, Miles Teller, Val Kilmer
-85,Good Will Hunting,1997,R,Drama,Gus Van Sant,138.43,Robin Williams, Matt Damon, Ben Affleck, Stellan Skarsgård
-86,Inglourious Basterds,2009,R,Adventure,Quentin Tarantino,120.54,Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent
-87,Star Wars: Episode VI - Return of the Jedi,1983,PG,Action,Richard Marquand,309.13,Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
-88,Requiem for a Dream,2000,R,Drama,Darren Aronofsky,3.64,Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans
-89,American Beauty,1999,R,Drama,Sam Mendes,130.1,Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley
-90,Scarface,1983,R,Crime,Brian De Palma,45.6,Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio
-91,Eternal Sunshine of the Spotless Mind,2004,R,Drama,Michel Gondry,34.4,Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne
-92,A Clockwork Orange,1971,R,Crime,Stanley Kubrick,6.21,Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke
-93,2001: A Space Odyssey,1968,G,Adventure,Stanley Kubrick,56.95,Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter
-94,Full Metal Jacket,1987,R,Drama,Stanley Kubrick,46.36,Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin
-95,Reservoir Dogs,1992,R,Crime,Quentin Tarantino,2.83,Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn
-96,The Hunt,2012,R,Drama,Thomas Vinterberg,0.69,Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm
-97,Hamilton,2020,PG-13,Biography,Thomas Kail,NULL,Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr., Renée Elise Goldsberry
-98,Once Upon a Time in America,1984,R,Crime,Sergio Leone,5.32,Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams
-99,Toy Story,1995,G,Animation,John Lasseter,191.8,Tom Hanks, Tim Allen, Don Rickles, Jim Varney
-100,Incendies,2010,R,Drama,Denis Villeneuve,6.86,Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Mustafa Kamel
-101,Singin' in the Rain,1952,G,Comedy,Stanley Donen,8.82,Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen
-102,Up,2009,PG,Animation,Pete Docter,293,Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer
-103,To Kill a Mockingbird,1962,Approved,Crime,Robert Mulligan,NULL,Gregory Peck, John Megna, Frank Overton, Rosemary Murphy
-104,Amélie,2001,R,Comedy,Jean-Pierre Jeunet,33.23,Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta
-105,Vertigo,1958,PG,Mystery,Alfred Hitchcock,3.2,James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore
-106,Lawrence of Arabia,1962,Approved,Adventure,David Lean,44.82,Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins
-107,Citizen Kane,1941,PG,Drama,Orson Welles,1.59,Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead
-108,Princess Mononoke,1997,PG-13,Animation,Hayao Miyazaki,2.38,Yôji Matsuda, Yuriko Ishida, Yûko Tanaka, Billy Crudup
-109,Toy Story 3,2010,G,Animation,Lee Unkrich,415,Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty
-110,Metropolis,1927,Not Rated,Drama,Fritz Lang,1.24,Brigitte Helm, Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge
-111,North by Northwest,1959,Approved,Action,Alfred Hitchcock,13.28,Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis
-112,The Sting,1973,PG,Comedy,George Roy Hill,159.6,Paul Newman, Robert Redford, Robert Shaw, Charles Durning
-113,A Separation,2011,PG-13,Drama,Asghar Farhadi,7.1,Payman Maadi, Leila Hatami, Sareh Bayat, Shahab Hosseini
-114,M,1931,Passed,Crime,Fritz Lang,0.03,Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke
-115,Ikiru,1952,Not Rated,Drama,Akira Kurosawa,0.06,Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori, Haruo Tanaka
-116,The Apartment,1960,Approved,Comedy,Billy Wilder,18.6,Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston
-117,Double Indemnity,1944,Passed,Crime,Billy Wilder,5.72,Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Byron Barr
-118,Judgment at Nuremberg,1961,Approved,Drama,Stanley Kramer,NULL,Spencer Tracy, Burt Lancaster, Richard Widmark, Marlene Dietrich
-119,Like Stars on Earth,2007,PG,Drama,Aamir Khan,1.22,Darsheel Safary, Aamir Khan, Tanay Chheda, Sachet Engineer
-120,Bicycle Thieves,1948,Not Rated,Drama,Vittorio De Sica,0.33,Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Elena Altieri
-121,Dangal,2016,Not Rated,Action,Nitesh Tiwari,12.39,Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh, Sanya Malhotra
-122,The Kid,1921,Passed,Comedy,Charles Chaplin,5.45,Charles Chaplin, Edna Purviance, Jackie Coogan, Carl Miller
-123,John Wick: Chapter 4,2023,R,Action,Chad Stahelski,NULL,Keanu Reeves, Laurence Fishburne, George Georgiou, Lance Reddick
-124,Spider-Man: No Way Home,2021,PG-13,Action,Jon Watts,804.75,Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon
-125,The Wolf of Wall Street,2013,R,Biography,Martin Scorsese,116.9,Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey
-126,1917,2019,R,Action,Sam Mendes,159.23,Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth
-127,Jurassic Park,1993,PG-13,Action,Steven Spielberg,402.45,Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
-128,Taxi Driver,1976,R,Crime,Martin Scorsese,28.26,Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks
-129,No Country for Old Men,2007,R,Crime,Ethan Coen,74.28,Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson
-130,Shutter Island,2010,R,Mystery,Martin Scorsese,128.01,Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley
-131,The Father,2020,PG-13,Drama,Florian Zeller,NULL,Anthony Hopkins, Olivia Colman, Mark Gatiss, Olivia Williams
-132,Snatch,2000,R,Comedy,Guy Ritchie,30.33,Jason Statham, Brad Pitt, Stephen Graham, Vinnie Jones
-133,Casino,1995,R,Crime,Martin Scorsese,42.44,Robert De Niro, Sharon Stone, Joe Pesci, James Woods
-134,A Beautiful Mind,2001,PG-13,Biography,Ron Howard,170.74,Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer
-135,Kill Bill: Vol. 1,2003,R,Action,Quentin Tarantino,70.1,Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen
-136,The Thing,1982,R,Horror,John Carpenter,13.78,Kurt Russell, Wilford Brimley, Keith David, Richard Masur
-137,There Will Be Blood,2007,R,Drama,Paul Thomas Anderson,40.22,Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer
-138,Green Book,2018,PG-13,Biography,Peter Farrelly,85.08,Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco
-139,Batman Begins,2005,PG-13,Action,Christopher Nolan,206.85,Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson
-140,The Truman Show,1998,PG,Comedy,Peter Weir,125.62,Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich
-141,Howl's Moving Castle,2004,PG,Animation,Hayao Miyazaki,4.71,Chieko Baishô, Takuya Kimura, Tatsuya Gashûin, Akihiro Miwa
-142,The Sixth Sense,1999,PG-13,Drama,M. Night Shyamalan,293.51,Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams
-143,Finding Nemo,2003,G,Animation,Andrew Stanton,380.84,Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe
-144,Indiana Jones and the Last Crusade,1989,PG-13,Action,Steven Spielberg,197.17,Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott
-145,Unforgiven,1992,R,Drama,Clint Eastwood,101.16,Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris
-146,All About Eve,1950,Passed,Drama,Joseph L. Mankiewicz,0.01,Bette Davis, Anne Baxter, George Sanders, Celeste Holm
-147,Die Hard,1988,R,Action,John McTiernan,83.01,Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson
-148,V for Vendetta,2005,R,Action,James McTeigue,70.51,Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea
-149,Downfall,2004,R,Biography,Oliver Hirschbiegel,5.51,Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes, Juliane Köhler
-150,Chinatown,1974,R,Drama,Roman Polanski,8.49,Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez
-151,Pan's Labyrinth,2006,R,Drama,Guillermo del Toro,37.63,Ivana Baquero, Ariadna Gil, Sergi López, Maribel Verdú
-152,L.A. Confidential,1997,R,Crime,Curtis Hanson,64.62,Kevin Spacey, Russell Crowe, Guy Pearce, Kim Basinger
-153,Monty Python and the Holy Grail,1975,PG,Adventure,Terry Gilliam,1.23,Graham Chapman, John Cleese, Eric Idle, Terry Gilliam
-154,Gone with the Wind,1939,Passed,Drama,Victor Fleming,198.68,Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil
-155,Warrior,2011,PG-13,Action,Gavin O'Connor,13.66,Tom Hardy, Nick Nolte, Joel Edgerton, Jennifer Morrison
-156,Some Like It Hot,1959,Passed,Comedy,Billy Wilder,25,Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft
-157,For a Few Dollars More,1965,R,Drama,Sergio Leone,15,Clint Eastwood, Lee Van Cleef, Gian Maria Volontè, Mara Krupp
-158,The Treasure of the Sierra Madre,1948,Passed,Adventure,John Huston,5.01,Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett
-159,The Elephant Man,1980,PG,Biography,David Lynch,NULL,Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud
-160,The Great Escape,1963,Approved,Adventure,John Sturges,12.1,Steve McQueen, James Garner, Richard Attenborough, Charles Bronson
-161,The Secret in Their Eyes,2009,R,Drama,Juan José Campanella,6.39,Ricardo Darín, Soledad Villamil, Pablo Rago, Carla Quevedo
-162,Ran,1985,R,Action,Akira Kurosawa,4.14,Tatsuya Nakadai, Akira Terao, Jinpachi Nezu, Daisuke Ryû
-163,Rashomon,1950,Not Rated,Crime,Akira Kurosawa,0.1,Toshirô Mifune, Machiko Kyô, Masayuki Mori, Takashi Shimura
-164,Klaus,2019,PG,Animation,Sergio Pablos,NULL,Jason Schwartzman, J.K. Simmons, Rashida Jones, Will Sasso
-165,Tokyo Story,1953,Not Rated,Drama,Yasujirô Ozu,NULL,Chishû Ryû, Chieko Higashiyama, Sô Yamamura, Setsuko Hara
-166,Dial M for Murder,1954,PG,Crime,Alfred Hitchcock,0.01,Ray Milland, Grace Kelly, Robert Cummings, John Williams
-167,Yojimbo,1961,Not Rated,Action,Akira Kurosawa,NULL,Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai, Yôko Tsukasa
-168,Children of Heaven,1997,PG,Drama,Majid Majidi,0.93,Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi, Nafise Jafar-Mohammadi
-169,The Passion of Joan of Arc,1928,Passed,Biography,Carl Theodor Dreyer,0.02,Maria Falconetti, Eugene Silvain, André Berley, Maurice Schutz
-170,To Be or Not to Be,1942,Passed,Comedy,Ernst Lubitsch,NULL,Carole Lombard, Jack Benny, Robert Stack, Felix Bressart
-171,The Wages of Fear,1953,Not Rated,Adventure,Henri-Georges Clouzot,NULL,Yves Montand, Charles Vanel, Peter van Eyck, Folco Lulli
-172,Pather Panchali,1955,Not Rated,Drama,Satyajit Ray,0.54,Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee, Chunibala Devi
-173,Sherlock Jr.,1924,Passed,Action,Buster Keaton,0.98,Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly
-174,My Father and My Son,2005,Not Rated,Drama,Çagan Irmak,NULL,Çetin Tekindor, Fikret Kuskan, Hümeyra, Ege Tanman
-175,Prisoners,2013,R,Crime,Denis Villeneuve,61,Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo
-176,The Grand Budapest Hotel,2014,R,Adventure,Wes Anderson,59.1,Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody
-177,Hacksaw Ridge,2016,R,Biography,Mel Gibson,67.21,Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer
-178,Mad Max: Fury Road,2015,R,Action,George Miller,154.06,Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz
-179,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,Action,Gore Verbinski,305.41,Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley
-180,Blade Runner,1982,R,Action,Ridley Scott,32.87,Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
-181,Jaws,1975,PG,Adventure,Steven Spielberg,260,Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
-182,The Exorcist,1973,R,Horror,William Friedkin,232.91,Ellen Burstyn, Max von Sydow, Linda Blair, Lee J. Cobb
-183,Ford v Ferrari,2019,PG-13,Action,James Mangold,117.62,Matt Damon, Christian Bale, Jon Bernthal, Caitríona Balfe
-184,Gone Girl,2014,R,Drama,David Fincher,167.77,Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry
-185,Stand by Me,1986,R,Adventure,Rob Reiner,52.29,Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell
-186,The Help,2011,PG-13,Drama,Tate Taylor,169.71,Viola Davis, Emma Stone, Octavia Spencer, Bryce Dallas Howard
-187,The Big Lebowski,1998,R,Comedy,Joel Coen,17.5,Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
-188,Catch Me If You Can,2002,PG-13,Biography,Steven Spielberg,164.62,Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen
-189,Ratatouille,2007,G,Animation,Brad Bird,206.45,Brad Garrett, Lou Romano, Patton Oswalt, Ian Holm
-190,The Terminator,1984,R,Action,James Cameron,38.4,Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield
-191,The Handmaiden,2016,Not Rated,Drama,Park Chan-wook,2.01,Kim Min-hee, Ha Jung-woo, Cho Jin-woong, Moon So-ri
-192,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,Adventure,David Yates,381.01,Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon
-193,The Wizard of Oz,1939,PG,Adventure,Victor Fleming,2.08,Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
-194,Dead Poets Society,1989,PG,Comedy,Peter Weir,95.86,Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles
-195,Spotlight,2015,R,Biography,Tom McCarthy,45.06,Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber
-196,"Three Billboards Outside Ebbing, Missouri",2017,R,Comedy,Martin McDonagh,54.51,Frances McDormand, Woody Harrelson, Sam Rockwell, Caleb Landry Jones
-197,Inside Out,2015,PG,Animation,Pete Docter,356.46,Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling
-198,Platoon,1986,R,Drama,Oliver Stone,138.53,Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David
-199,Fargo,1996,R,Crime,Joel Coen,24.61,William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare
-200,Logan,2017,R,Action,James Mangold,226.28,Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook
-201,Rocky,1976,PG,Drama,John G. Avildsen,117.24,Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
-202,"Monsters, Inc.",2001,G,Animation,Pete Docter,289.92,Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi
-203,Trainspotting,1996,R,Drama,Danny Boyle,16.5,Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd
-204,"Lock, Stock and Two Smoking Barrels",1998,R,Action,Guy Ritchie,3.9,Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham
-205,Into the Wild,2007,R,Adventure,Sean Penn,18.35,Emile Hirsch, Vince Vaughn, Catherine Keener, Marcia Gay Harden
-206,Gran Torino,2008,R,Drama,Clint Eastwood,148.1,Clint Eastwood, Bee Vang, Christopher Carley, Ahney Her
-207,Room,2015,R,Drama,Lenny Abrahamson,14.68,Brie Larson, Jacob Tremblay, Sean Bridgers, Wendy Crewson
-208,How to Train Your Dragon,2010,PG,Animation,Dean DeBlois,217.58,Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse, Craig Ferguson
-209,Before Sunrise,1995,R,Drama,Richard Linklater,5.54,Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl
-210,Memories of Murder,2003,Not Rated,Crime,Bong Joon Ho,0.01,Song Kang-ho, Kim Sang-kyung, Roe-ha Kim, Jae-ho Song
-211,The Deer Hunter,1978,R,Drama,Michael Cimino,48.98,Robert De Niro, Christopher Walken, John Cazale, John Savage
-212,Million Dollar Baby,2004,PG-13,Drama,Clint Eastwood,100.49,Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel
-213,Rush,2013,R,Action,Ron Howard,26.95,Daniel Brühl, Chris Hemsworth, Olivia Wilde, Alexandra Maria Lara
-214,The Sound of Music,1965,G,Biography,Robert Wise,163.21,Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn
-215,Wild Tales,2014,R,Comedy,Damián Szifron,3.11,Darío Grandinetti, María Marull, Mónica Villa, Diego Starosta
-216,Raging Bull,1980,R,Biography,Martin Scorsese,23.38,Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
-217,12 Years a Slave,2013,R,Biography,Steve McQueen,56.67,Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt
-218,Barry Lyndon,1975,PG,Adventure,Stanley Kubrick,NULL,Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger
-219,Hachi: A Dog's Tale,2009,G,Biography,Lasse Hallström,NULL,Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa, Sarah Roemer
-220,My Neighbor Totoro,1988,G,Animation,Hayao Miyazaki,1.11,Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto, Shigesato Itoi
-221,Ben-Hur,1959,G,Adventure,William Wyler,74.7,Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet
-222,Cool Hand Luke,1967,GP,Crime,Stuart Rosenberg,16.22,Paul Newman, George Kennedy, Strother Martin, J.D. Cannon
-223,Network,1976,R,Drama,Sidney Lumet,NULL,Faye Dunaway, William Holden, Peter Finch, Robert Duvall
-224,La haine,1995,Not Rated,Crime,Mathieu Kassovitz,0.31,Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili
-225,The Iron Giant,1999,PG,Animation,Brad Bird,23.16,Eli Marienthal, Harry Connick Jr., Jennifer Aniston, Vin Diesel
-226,Before Sunset,2004,R,Drama,Richard Linklater,5.82,Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torrès
-227,Persona,1966,Not Rated,Drama,Ingmar Bergman,NULL,Bibi Andersson, Liv Ullmann, Margaretha Krook, Gunnar Björnstrand
-228,The Seventh Seal,1957,Not Rated,Drama,Ingmar Bergman,NULL,Max von Sydow, Gunnar Björnstrand, Bengt Ekerot, Nils Poppe
-229,Hotel Rwanda,2004,PG-13,Biography,Terry George,23.53,Don Cheadle, Sophie Okonedo, Joaquin Phoenix, Xolani Mali
-230,Amores Perros,2000,R,Drama,Alejandro G. Iñárritu,5.38,Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero
-231,The Bridge on the River Kwai,1957,PG,Adventure,David Lean,44.91,William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa
-232,The Third Man,1949,Approved,Film-Noir,Carol Reed,0.45,Orson Welles, Joseph Cotten, Alida Valli, Trevor Howard
-233,In the Name of the Father,1993,R,Biography,Jim Sheridan,25.01,Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie, Philip King
-234,The Grapes of Wrath,1940,Passed,Drama,John Ford,0.06,Henry Fonda, Jane Darwell, John Carradine, Charley Grapewin
-235,Rebecca,1940,Approved,Drama,Alfred Hitchcock,4.36,Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson
-236,On the Waterfront,1954,Approved,Crime,Elia Kazan,9.6,Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger
-237,Mary and Max,2009,Not Rated,Animation,Adam Elliot,NULL,Toni Collette, Philip Seymour Hoffman, Eric Bana, Barry Humphries
-238,The 400 Blows,1959,Not Rated,Crime,François Truffaut,NULL,Jean-Pierre Léaud, Albert Rémy, Claire Maurier, Guy Decomble
-239,It Happened One Night,1934,Passed,Comedy,Frank Capra,4.36,Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns
-240,The Best Years of Our Lives,1946,Approved,Drama,William Wyler,23.65,Myrna Loy, Dana Andrews, Fredric March, Teresa Wright
-241,Wild Strawberries,1957,Not Rated,Drama,Ingmar Bergman,NULL,Victor Sjöström, Bibi Andersson, Ingrid Thulin, Gunnar Björnstrand
-242,Mr. Smith Goes to Washington,1939,Passed,Comedy,Frank Capra,9.6,James Stewart, Jean Arthur, Claude Rains, Edward Arnold
-243,The Battle of Algiers,1966,Not Rated,Drama,Gillo Pontecorvo,0.06,Brahim Hadjadj, Jean Martin, Yacef Saadi, Samia Kerbash
-244,The General,1926,Passed,Action,Clyde Bruckman,1.03,Buster Keaton, Marion Mack, Glen Cavender, Jim Farley
-245,The Gold Rush,1925,Passed,Adventure,Charles Chaplin,5.45,Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman
-246,The Incredibles,2004,PG,Animation,Brad Bird,261.44,Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee
-247,Dances with Wolves,1990,PG-13,Adventure,Kevin Costner,184.21,Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant
-248,Aladdin,1992,G,Animation,Ron Clements,217.35,Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
-249,Life of Brian,1979,R,Comedy,Terry Jones,20.05,Graham Chapman, John Cleese, Michael Palin, Terry Gilliam
-250,Groundhog Day,1993,PG,Comedy,Harold Ramis,70.91,Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky
+Movie Rank,DIRECTORID,Movie Name,Year Released,User Rating,Genre,Director,Gross Amount(Millions),Actor1,Actor2,Actor3,Actor4
+1,1,The Shawshank Redemption,1994,R,Drama,Frank Darabont,28.34,Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+2,2,The Godfather,1972,R,Crime,Francis Ford Coppola,134.97,Marlon Brando, Al Pacino, James Caan, Diane Keaton
+3,3,The Dark Knight,2008,PG-13,Action,Christopher Nolan,534.86,Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+4,4,Schindler's List,1993,R,Biography,Steven Spielberg,96.9,Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall
+5,5,The Godfather Part II,1974,R,Crime,Francis Ford Coppola,57.3,Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton
+6,6,12 Angry Men,1957,Approved,Crime,Sidney Lumet,4.36,Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler
+7,7,The Lord of the Rings: The Return of the King,2003,PG-13,Action,Peter Jackson,377.85,Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom
+8,8,Pulp Fiction,1994,R,Crime,Quentin Tarantino,107.93,John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis
+9,9,Inception,2010,PG-13,Action,Christopher Nolan,292.58,Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe
+10,10,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,Action,Peter Jackson,315.54,Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean
+11,11,Fight Club,1999,R,Drama,David Fincher,37.03,Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier
+12,12,Forrest Gump,1994,PG-13,Drama,Robert Zemeckis,330.25,Tom Hanks, Robin Wright, Gary Sinise, Sally Field
+13,13,"The Good, the Bad and the Ugly",1966,Approved,Adventure,Sergio Leone,6.1,Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo Giuffrè
+14,14,The Lord of the Rings: The Two Towers,2002,PG-13,Action,Peter Jackson,342.55,Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom
+15,15,Jai Bhim,2021,TV-MA,Crime,T.J. Gnanavel,NULL,Suriya, Lijo Mol Jose, Manikandan K., Rajisha Vijayan
+16,16,Interstellar,2014,PG-13,Adventure,Christopher Nolan,188.02,Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy
+17,17,Goodfellas,1990,R,Biography,Martin Scorsese,46.84,Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+18,18,The Matrix,1999,R,Action,Lana Wachowski,171.48,Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+19,19,One Flew Over the Cuckoo's Nest,1975,R,Drama,Milos Forman,112,Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco
+20,20,Star Wars: Episode V - The Empire Strikes Back,1980,PG,Action,Irvin Kershner,290.48,Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+21,21,The Green Mile,1999,R,Crime,Frank Darabont,136.8,Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt
+22,22,Star Wars: Episode IV - A New Hope,1977,PG,Action,George Lucas,322.74,Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness
+23,23,Se7en,1995,R,Crime,David Fincher,100.13,Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker
+24,24,The Silence of the Lambs,1991,R,Crime,Jonathan Demme,130.74,Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons
+25,25,Saving Private Ryan,1998,R,Drama,Steven Spielberg,216.54,Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns
+26,26,Spirited Away,2001,PG,Animation,Hayao Miyazaki,10.06,Daveigh Chase, Suzanne Pleshette, Miyu Irino, Rumi Hiiragi
+27,27,City of God,2002,R,Crime,Fernando Meirelles,7.56,Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele, Phellipe Haagensen
+28,28,Terminator 2: Judgment Day,1991,R,Action,James Cameron,204.84,Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick
+29,29,Life Is Beautiful,1997,PG-13,Comedy,Roberto Benigni,57.6,Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano
+30,30,Seven Samurai,1954,Not Rated,Action,Akira Kurosawa,0.27,Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki
+31,31,It's a Wonderful Life,1946,PG,Drama,Frank Capra,NULL,James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell
+32,32,Harakiri,1962,Not Rated,Action,Masaki Kobayashi,NULL,Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsurô Tanba
+33,33,Léon: The Professional,1994,R,Action,Luc Besson,19.5,Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello
+34,34,Parasite,2019,R,Drama,Bong Joon Ho,53.37,Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik
+35,35,The Departed,2006,R,Crime,Martin Scorsese,132.38,Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
+36,36,Gladiator,2000,R,Action,Ridley Scott,187.71,Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+37,37,Whiplash,2014,R,Drama,Damien Chazelle,13.09,Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser
+38,38,Back to the Future,1985,PG,Adventure,Robert Zemeckis,210.61,Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
+39,39,Alien,1979,R,Horror,Ridley Scott,78.9,Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright
+40,40,The Prestige,2006,PG-13,Drama,Christopher Nolan,53.09,Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine
+41,41,The Lion King,1994,G,Animation,Roger Allers,422.78,Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg
+42,42,The Usual Suspects,1995,R,Crime,Bryan Singer,23.34,Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin
+43,43,Psycho,1960,R,Horror,Alfred Hitchcock,32,Anthony Perkins, Janet Leigh, Vera Miles, John Gavin
+44,44,The Pianist,2002,R,Biography,Roman Polanski,32.57,Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox
+45,45,American History X,1998,R,Crime,Tony Kaye,6.72,Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien
+46,46,The Intouchables,2011,R,Biography,Olivier Nakache,13.18,François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot
+47,47,Casablanca,1942,PG,Drama,Michael Curtiz,1.02,Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains
+48,48,Once Upon a Time in the West,1968,PG-13,Western,Sergio Leone,5.32,Henry Fonda, Charles Bronson, Claudia Cardinale, Jason Robards
+49,49,Grave of the Fireflies,1988,Not Rated,Animation,Isao Takahata,NULL,Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi, Yoshiko Shinohara
+50,50,Rear Window,1954,PG,Mystery,Alfred Hitchcock,36.76,James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter
+51,51,Cinema Paradiso,1988,R,Drama,Giuseppe Tornatore,11.99,Philippe Noiret, Enzo Cannavale, Antonella Attili, Isa Danieli
+52,52,Modern Times,1936,G,Comedy,Charles Chaplin,0.16,Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford
+53,53,City Lights,1931,G,Comedy,Charles Chaplin,0.02,Charles Chaplin, Virginia Cherrill, Florence Lee, Harry Myers
+54,54,Avengers: Endgame,2019,PG-13,Action,Anthony Russo,858.37,Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+55,55,Spider-Man: Into the Spider-Verse,2018,PG,Animation,Bob Persichetti,190.24,Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali
+56,56,Avengers: Infinity War,2018,PG-13,Action,Anthony Russo,678.82,Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+57,57,Joker,2019,R,Crime,Todd Phillips,335.45,Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy
+58,58,Oldboy,2003,R,Action,Park Chan-wook,0.71,Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong, Kim Byeong-Ok
+59,59,Django Unchained,2012,R,Drama,Quentin Tarantino,162.81,Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington
+60,60,Indiana Jones and the Raiders of the Lost Ark,1981,PG,Action,Steven Spielberg,248.16,Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies
+61,61,Apocalypse Now,1979,R,Drama,Francis Ford Coppola,83.47,Martin Sheen, Marlon Brando, Robert Duvall, Frederic Forrest
+62,62,The Shining,1980,R,Drama,Stanley Kubrick,44.02,Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
+63,63,Come and See,1985,Not Rated,Drama,Elem Klimov,NULL,Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas
+64,64,The Dark Knight Rises,2012,PG-13,Action,Christopher Nolan,448.14,Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman
+65,65,Aliens,1986,R,Action,James Cameron,85.16,Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser
+66,66,Memento,2000,R,Mystery,Christopher Nolan,25.54,Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior
+67,67,Your Name.,2016,PG,Animation,Makoto Shinkai,5.02,Ryunosuke Kamiki, Mone Kamishiraishi, Ryo Narita, Aoi Yûki
+68,68,Capernaum,2018,R,Drama,Nadine Labaki,1.66,Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole, Kawsar Al Haddad
+69,69,Braveheart,1995,R,Biography,Mel Gibson,75.6,Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen
+70,70,Coco,2017,PG,Animation,Lee Unkrich,209.73,Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach
+71,71,WALL·E,2008,G,Animation,Andrew Stanton,223.81,Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard
+72,72,Amadeus,1984,R,Biography,Milos Forman,51.97,F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice
+73,73,The Lives of Others,2006,R,Drama,Florian Henckel von Donnersmarck,11.29,Ulrich Mühe, Martina Gedeck, Sebastian Koch, Ulrich Tukur
+74,74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,Comedy,Stanley Kubrick,0.28,Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn
+75,75,Sunset Blvd.,1950,Passed,Drama,Billy Wilder,NULL,William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson
+76,76,Das Boot,1981,R,Drama,Wolfgang Petersen,11.49,Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch
+77,77,3 Idiots,2009,PG-13,Comedy,Rajkumar Hirani,6.53,Aamir Khan, Madhavan, Mona Singh, Sharman Joshi
+78,78,Paths of Glory,1957,Approved,Drama,Stanley Kubrick,NULL,Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready
+79,79,Witness for the Prosecution,1957,Approved,Crime,Billy Wilder,8.18,Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester
+80,80,The Great Dictator,1940,G,Comedy,Charles Chaplin,0.29,Charles Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner
+81,81,High and Low,1963,Not Rated,Crime,Akira Kurosawa,NULL,Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai, Kyôko Kagawa
+82,82,Guardians of the Galaxy Vol. 3,2023,PG-13,Action,James Gunn,NULL,Chris Pratt, Chukwudi Iwuji, Bradley Cooper, Pom Klementieff
+83,83,Heat,1995,R,Action,Michael Mann,67.44,Al Pacino, Robert De Niro, Val Kilmer, Jon Voight
+84,84,Top Gun: Maverick,2022,PG-13,Action,Joseph Kosinski,718.73,Tom Cruise, Jennifer Connelly, Miles Teller, Val Kilmer
+85,85,Good Will Hunting,1997,R,Drama,Gus Van Sant,138.43,Robin Williams, Matt Damon, Ben Affleck, Stellan Skarsgård
+86,86,Inglourious Basterds,2009,R,Adventure,Quentin Tarantino,120.54,Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent
+87,87,Star Wars: Episode VI - Return of the Jedi,1983,PG,Action,Richard Marquand,309.13,Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+88,88,Requiem for a Dream,2000,R,Drama,Darren Aronofsky,3.64,Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans
+89,89,American Beauty,1999,R,Drama,Sam Mendes,130.1,Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley
+90,90,Scarface,1983,R,Crime,Brian De Palma,45.6,Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio
+91,91,Eternal Sunshine of the Spotless Mind,2004,R,Drama,Michel Gondry,34.4,Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne
+92,92,A Clockwork Orange,1971,R,Crime,Stanley Kubrick,6.21,Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke
+93,93,2001: A Space Odyssey,1968,G,Adventure,Stanley Kubrick,56.95,Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter
+94,94,Full Metal Jacket,1987,R,Drama,Stanley Kubrick,46.36,Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin
+95,95,Reservoir Dogs,1992,R,Crime,Quentin Tarantino,2.83,Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn
+96,96,The Hunt,2012,R,Drama,Thomas Vinterberg,0.69,Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm
+97,97,Hamilton,2020,PG-13,Biography,Thomas Kail,NULL,Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr., Renée Elise Goldsberry
+98,98,Once Upon a Time in America,1984,R,Crime,Sergio Leone,5.32,Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams
+99,99,Toy Story,1995,G,Animation,John Lasseter,191.8,Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+100,100,Incendies,2010,R,Drama,Denis Villeneuve,6.86,Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Mustafa Kamel
+101,101,Singin' in the Rain,1952,G,Comedy,Stanley Donen,8.82,Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen
+102,102,Up,2009,PG,Animation,Pete Docter,293,Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer
+103,103,To Kill a Mockingbird,1962,Approved,Crime,Robert Mulligan,NULL,Gregory Peck, John Megna, Frank Overton, Rosemary Murphy
+104,104,Amélie,2001,R,Comedy,Jean-Pierre Jeunet,33.23,Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta
+105,105,Vertigo,1958,PG,Mystery,Alfred Hitchcock,3.2,James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore
+106,106,Lawrence of Arabia,1962,Approved,Adventure,David Lean,44.82,Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins
+107,107,Citizen Kane,1941,PG,Drama,Orson Welles,1.59,Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead
+108,108,Princess Mononoke,1997,PG-13,Animation,Hayao Miyazaki,2.38,Yôji Matsuda, Yuriko Ishida, Yûko Tanaka, Billy Crudup
+109,109,Toy Story 3,2010,G,Animation,Lee Unkrich,415,Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty
+110,110,Metropolis,1927,Not Rated,Drama,Fritz Lang,1.24,Brigitte Helm, Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge
+111,111,North by Northwest,1959,Approved,Action,Alfred Hitchcock,13.28,Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis
+112,112,The Sting,1973,PG,Comedy,George Roy Hill,159.6,Paul Newman, Robert Redford, Robert Shaw, Charles Durning
+113,113,A Separation,2011,PG-13,Drama,Asghar Farhadi,7.1,Payman Maadi, Leila Hatami, Sareh Bayat, Shahab Hosseini
+114,114,M,1931,Passed,Crime,Fritz Lang,0.03,Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke
+115,115,Ikiru,1952,Not Rated,Drama,Akira Kurosawa,0.06,Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori, Haruo Tanaka
+116,116,The Apartment,1960,Approved,Comedy,Billy Wilder,18.6,Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston
+117,117,Double Indemnity,1944,Passed,Crime,Billy Wilder,5.72,Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Byron Barr
+118,118,Judgment at Nuremberg,1961,Approved,Drama,Stanley Kramer,NULL,Spencer Tracy, Burt Lancaster, Richard Widmark, Marlene Dietrich
+119,119,Like Stars on Earth,2007,PG,Drama,Aamir Khan,1.22,Darsheel Safary, Aamir Khan, Tanay Chheda, Sachet Engineer
+120,120,Bicycle Thieves,1948,Not Rated,Drama,Vittorio De Sica,0.33,Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Elena Altieri
+121,121,Dangal,2016,Not Rated,Action,Nitesh Tiwari,12.39,Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh, Sanya Malhotra
+122,122,The Kid,1921,Passed,Comedy,Charles Chaplin,5.45,Charles Chaplin, Edna Purviance, Jackie Coogan, Carl Miller
+123,123,John Wick: Chapter 4,2023,R,Action,Chad Stahelski,NULL,Keanu Reeves, Laurence Fishburne, George Georgiou, Lance Reddick
+124,124,Spider-Man: No Way Home,2021,PG-13,Action,Jon Watts,804.75,Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon
+125,125,The Wolf of Wall Street,2013,R,Biography,Martin Scorsese,116.9,Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey
+126,126,1917,2019,R,Action,Sam Mendes,159.23,Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth
+127,127,Jurassic Park,1993,PG-13,Action,Steven Spielberg,402.45,Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+128,128,Taxi Driver,1976,R,Crime,Martin Scorsese,28.26,Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks
+129,129,No Country for Old Men,2007,R,Crime,Ethan Coen,74.28,Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson
+130,130,Shutter Island,2010,R,Mystery,Martin Scorsese,128.01,Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley
+131,131,The Father,2020,PG-13,Drama,Florian Zeller,NULL,Anthony Hopkins, Olivia Colman, Mark Gatiss, Olivia Williams
+132,132,Snatch,2000,R,Comedy,Guy Ritchie,30.33,Jason Statham, Brad Pitt, Stephen Graham, Vinnie Jones
+133,133,Casino,1995,R,Crime,Martin Scorsese,42.44,Robert De Niro, Sharon Stone, Joe Pesci, James Woods
+134,134,A Beautiful Mind,2001,PG-13,Biography,Ron Howard,170.74,Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer
+135,135,Kill Bill: Vol. 1,2003,R,Action,Quentin Tarantino,70.1,Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen
+136,136,The Thing,1982,R,Horror,John Carpenter,13.78,Kurt Russell, Wilford Brimley, Keith David, Richard Masur
+137,137,There Will Be Blood,2007,R,Drama,Paul Thomas Anderson,40.22,Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer
+138,138,Green Book,2018,PG-13,Biography,Peter Farrelly,85.08,Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco
+139,139,Batman Begins,2005,PG-13,Action,Christopher Nolan,206.85,Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson
+140,140,The Truman Show,1998,PG,Comedy,Peter Weir,125.62,Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich
+141,141,Howl's Moving Castle,2004,PG,Animation,Hayao Miyazaki,4.71,Chieko Baishô, Takuya Kimura, Tatsuya Gashûin, Akihiro Miwa
+142,142,The Sixth Sense,1999,PG-13,Drama,M. Night Shyamalan,293.51,Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams
+143,143,Finding Nemo,2003,G,Animation,Andrew Stanton,380.84,Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe
+144,144,Indiana Jones and the Last Crusade,1989,PG-13,Action,Steven Spielberg,197.17,Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott
+145,145,Unforgiven,1992,R,Drama,Clint Eastwood,101.16,Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris
+146,146,All About Eve,1950,Passed,Drama,Joseph L. Mankiewicz,0.01,Bette Davis, Anne Baxter, George Sanders, Celeste Holm
+147,147,Die Hard,1988,R,Action,John McTiernan,83.01,Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson
+148,148,V for Vendetta,2005,R,Action,James McTeigue,70.51,Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea
+149,149,Downfall,2004,R,Biography,Oliver Hirschbiegel,5.51,Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes, Juliane Köhler
+150,150,Chinatown,1974,R,Drama,Roman Polanski,8.49,Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez
+151,151,Pan's Labyrinth,2006,R,Drama,Guillermo del Toro,37.63,Ivana Baquero, Ariadna Gil, Sergi López, Maribel Verdú
+152,152,L.A. Confidential,1997,R,Crime,Curtis Hanson,64.62,Kevin Spacey, Russell Crowe, Guy Pearce, Kim Basinger
+153,153,Monty Python and the Holy Grail,1975,PG,Adventure,Terry Gilliam,1.23,Graham Chapman, John Cleese, Eric Idle, Terry Gilliam
+154,154,Gone with the Wind,1939,Passed,Drama,Victor Fleming,198.68,Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil
+155,155,Warrior,2011,PG-13,Action,Gavin O'Connor,13.66,Tom Hardy, Nick Nolte, Joel Edgerton, Jennifer Morrison
+156,156,Some Like It Hot,1959,Passed,Comedy,Billy Wilder,25,Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft
+157,157,For a Few Dollars More,1965,R,Drama,Sergio Leone,15,Clint Eastwood, Lee Van Cleef, Gian Maria Volontè, Mara Krupp
+158,158,The Treasure of the Sierra Madre,1948,Passed,Adventure,John Huston,5.01,Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett
+159,159,The Elephant Man,1980,PG,Biography,David Lynch,NULL,Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud
+160,160,The Great Escape,1963,Approved,Adventure,John Sturges,12.1,Steve McQueen, James Garner, Richard Attenborough, Charles Bronson
+161,161,The Secret in Their Eyes,2009,R,Drama,Juan José Campanella,6.39,Ricardo Darín, Soledad Villamil, Pablo Rago, Carla Quevedo
+162,162,Ran,1985,R,Action,Akira Kurosawa,4.14,Tatsuya Nakadai, Akira Terao, Jinpachi Nezu, Daisuke Ryû
+163,163,Rashomon,1950,Not Rated,Crime,Akira Kurosawa,0.1,Toshirô Mifune, Machiko Kyô, Masayuki Mori, Takashi Shimura
+164,164,Klaus,2019,PG,Animation,Sergio Pablos,NULL,Jason Schwartzman, J.K. Simmons, Rashida Jones, Will Sasso
+165,165,Tokyo Story,1953,Not Rated,Drama,Yasujirô Ozu,NULL,Chishû Ryû, Chieko Higashiyama, Sô Yamamura, Setsuko Hara
+166,166,Dial M for Murder,1954,PG,Crime,Alfred Hitchcock,0.01,Ray Milland, Grace Kelly, Robert Cummings, John Williams
+167,167,Yojimbo,1961,Not Rated,Action,Akira Kurosawa,NULL,Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai, Yôko Tsukasa
+168,168,Children of Heaven,1997,PG,Drama,Majid Majidi,0.93,Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi, Nafise Jafar-Mohammadi
+169,169,The Passion of Joan of Arc,1928,Passed,Biography,Carl Theodor Dreyer,0.02,Maria Falconetti, Eugene Silvain, André Berley, Maurice Schutz
+170,170,To Be or Not to Be,1942,Passed,Comedy,Ernst Lubitsch,NULL,Carole Lombard, Jack Benny, Robert Stack, Felix Bressart
+171,171,The Wages of Fear,1953,Not Rated,Adventure,Henri-Georges Clouzot,NULL,Yves Montand, Charles Vanel, Peter van Eyck, Folco Lulli
+172,172,Pather Panchali,1955,Not Rated,Drama,Satyajit Ray,0.54,Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee, Chunibala Devi
+173,173,Sherlock Jr.,1924,Passed,Action,Buster Keaton,0.98,Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly
+174,174,My Father and My Son,2005,Not Rated,Drama,Çagan Irmak,NULL,Çetin Tekindor, Fikret Kuskan, Hümeyra, Ege Tanman
+175,175,Prisoners,2013,R,Crime,Denis Villeneuve,61,Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo
+176,176,The Grand Budapest Hotel,2014,R,Adventure,Wes Anderson,59.1,Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody
+177,177,Hacksaw Ridge,2016,R,Biography,Mel Gibson,67.21,Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer
+178,178,Mad Max: Fury Road,2015,R,Action,George Miller,154.06,Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz
+179,179,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,Action,Gore Verbinski,305.41,Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley
+180,180,Blade Runner,1982,R,Action,Ridley Scott,32.87,Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+181,181,Jaws,1975,PG,Adventure,Steven Spielberg,260,Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+182,182,The Exorcist,1973,R,Horror,William Friedkin,232.91,Ellen Burstyn, Max von Sydow, Linda Blair, Lee J. Cobb
+183,183,Ford v Ferrari,2019,PG-13,Action,James Mangold,117.62,Matt Damon, Christian Bale, Jon Bernthal, Caitríona Balfe
+184,184,Gone Girl,2014,R,Drama,David Fincher,167.77,Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry
+185,185,Stand by Me,1986,R,Adventure,Rob Reiner,52.29,Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell
+186,186,The Help,2011,PG-13,Drama,Tate Taylor,169.71,Viola Davis, Emma Stone, Octavia Spencer, Bryce Dallas Howard
+187,187,The Big Lebowski,1998,R,Comedy,Joel Coen,17.5,Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+188,188,Catch Me If You Can,2002,PG-13,Biography,Steven Spielberg,164.62,Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen
+189,189,Ratatouille,2007,G,Animation,Brad Bird,206.45,Brad Garrett, Lou Romano, Patton Oswalt, Ian Holm
+190,190,The Terminator,1984,R,Action,James Cameron,38.4,Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield
+191,191,The Handmaiden,2016,Not Rated,Drama,Park Chan-wook,2.01,Kim Min-hee, Ha Jung-woo, Cho Jin-woong, Moon So-ri
+192,192,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,Adventure,David Yates,381.01,Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon
+193,193,The Wizard of Oz,1939,PG,Adventure,Victor Fleming,2.08,Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+194,194,Dead Poets Society,1989,PG,Comedy,Peter Weir,95.86,Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles
+195,195,Spotlight,2015,R,Biography,Tom McCarthy,45.06,Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber
+196,196,"Three Billboards Outside Ebbing, Missouri",2017,R,Comedy,Martin McDonagh,54.51,Frances McDormand, Woody Harrelson, Sam Rockwell, Caleb Landry Jones
+197,197,Inside Out,2015,PG,Animation,Pete Docter,356.46,Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling
+198,198,Platoon,1986,R,Drama,Oliver Stone,138.53,Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David
+199,199,Fargo,1996,R,Crime,Joel Coen,24.61,William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare
+200,200,Logan,2017,R,Action,James Mangold,226.28,Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook
+201,201,Rocky,1976,PG,Drama,John G. Avildsen,117.24,Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+202,202,"Monsters, Inc.",2001,G,Animation,Pete Docter,289.92,Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi
+203,203,Trainspotting,1996,R,Drama,Danny Boyle,16.5,Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd
+204,204,"Lock, Stock and Two Smoking Barrels",1998,R,Action,Guy Ritchie,3.9,Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham
+205,205,Into the Wild,2007,R,Adventure,Sean Penn,18.35,Emile Hirsch, Vince Vaughn, Catherine Keener, Marcia Gay Harden
+206,206,Gran Torino,2008,R,Drama,Clint Eastwood,148.1,Clint Eastwood, Bee Vang, Christopher Carley, Ahney Her
+207,207,Room,2015,R,Drama,Lenny Abrahamson,14.68,Brie Larson, Jacob Tremblay, Sean Bridgers, Wendy Crewson
+208,208,How to Train Your Dragon,2010,PG,Animation,Dean DeBlois,217.58,Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse, Craig Ferguson
+209,209,Before Sunrise,1995,R,Drama,Richard Linklater,5.54,Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl
+210,210,Memories of Murder,2003,Not Rated,Crime,Bong Joon Ho,0.01,Song Kang-ho, Kim Sang-kyung, Roe-ha Kim, Jae-ho Song
+211,211,The Deer Hunter,1978,R,Drama,Michael Cimino,48.98,Robert De Niro, Christopher Walken, John Cazale, John Savage
+212,212,Million Dollar Baby,2004,PG-13,Drama,Clint Eastwood,100.49,Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel
+213,213,Rush,2013,R,Action,Ron Howard,26.95,Daniel Brühl, Chris Hemsworth, Olivia Wilde, Alexandra Maria Lara
+214,214,The Sound of Music,1965,G,Biography,Robert Wise,163.21,Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn
+215,215,Wild Tales,2014,R,Comedy,Damián Szifron,3.11,Darío Grandinetti, María Marull, Mónica Villa, Diego Starosta
+216,216,Raging Bull,1980,R,Biography,Martin Scorsese,23.38,Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+217,217,12 Years a Slave,2013,R,Biography,Steve McQueen,56.67,Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt
+218,218,Barry Lyndon,1975,PG,Adventure,Stanley Kubrick,NULL,Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger
+219,219,Hachi: A Dog's Tale,2009,G,Biography,Lasse Hallström,NULL,Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa, Sarah Roemer
+220,220,My Neighbor Totoro,1988,G,Animation,Hayao Miyazaki,1.11,Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto, Shigesato Itoi
+221,221,Ben-Hur,1959,G,Adventure,William Wyler,74.7,Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet
+222,222,Cool Hand Luke,1967,GP,Crime,Stuart Rosenberg,16.22,Paul Newman, George Kennedy, Strother Martin, J.D. Cannon
+223,223,Network,1976,R,Drama,Sidney Lumet,NULL,Faye Dunaway, William Holden, Peter Finch, Robert Duvall
+224,224,La haine,1995,Not Rated,Crime,Mathieu Kassovitz,0.31,Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili
+225,225,The Iron Giant,1999,PG,Animation,Brad Bird,23.16,Eli Marienthal, Harry Connick Jr., Jennifer Aniston, Vin Diesel
+226,226,Before Sunset,2004,R,Drama,Richard Linklater,5.82,Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torrès
+227,227,Persona,1966,Not Rated,Drama,Ingmar Bergman,NULL,Bibi Andersson, Liv Ullmann, Margaretha Krook, Gunnar Björnstrand
+228,228,The Seventh Seal,1957,Not Rated,Drama,Ingmar Bergman,NULL,Max von Sydow, Gunnar Björnstrand, Bengt Ekerot, Nils Poppe
+229,229,Hotel Rwanda,2004,PG-13,Biography,Terry George,23.53,Don Cheadle, Sophie Okonedo, Joaquin Phoenix, Xolani Mali
+230,230,Amores Perros,2000,R,Drama,Alejandro G. Iñárritu,5.38,Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero
+231,231,The Bridge on the River Kwai,1957,PG,Adventure,David Lean,44.91,William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa
+232,232,The Third Man,1949,Approved,Film-Noir,Carol Reed,0.45,Orson Welles, Joseph Cotten, Alida Valli, Trevor Howard
+233,233,In the Name of the Father,1993,R,Biography,Jim Sheridan,25.01,Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie, Philip King
+234,234,The Grapes of Wrath,1940,Passed,Drama,John Ford,0.06,Henry Fonda, Jane Darwell, John Carradine, Charley Grapewin
+235,235,Rebecca,1940,Approved,Drama,Alfred Hitchcock,4.36,Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson
+236,236,On the Waterfront,1954,Approved,Crime,Elia Kazan,9.6,Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger
+237,237,Mary and Max,2009,Not Rated,Animation,Adam Elliot,NULL,Toni Collette, Philip Seymour Hoffman, Eric Bana, Barry Humphries
+238,238,The 400 Blows,1959,Not Rated,Crime,François Truffaut,NULL,Jean-Pierre Léaud, Albert Rémy, Claire Maurier, Guy Decomble
+239,239,It Happened One Night,1934,Passed,Comedy,Frank Capra,4.36,Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns
+240,240,The Best Years of Our Lives,1946,Approved,Drama,William Wyler,23.65,Myrna Loy, Dana Andrews, Fredric March, Teresa Wright
+241,241,Wild Strawberries,1957,Not Rated,Drama,Ingmar Bergman,NULL,Victor Sjöström, Bibi Andersson, Ingrid Thulin, Gunnar Björnstrand
+242,242,Mr. Smith Goes to Washington,1939,Passed,Comedy,Frank Capra,9.6,James Stewart, Jean Arthur, Claude Rains, Edward Arnold
+243,243,The Battle of Algiers,1966,Not Rated,Drama,Gillo Pontecorvo,0.06,Brahim Hadjadj, Jean Martin, Yacef Saadi, Samia Kerbash
+244,244,The General,1926,Passed,Action,Clyde Bruckman,1.03,Buster Keaton, Marion Mack, Glen Cavender, Jim Farley
+245,245,The Gold Rush,1925,Passed,Adventure,Charles Chaplin,5.45,Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman
+246,246,The Incredibles,2004,PG,Animation,Brad Bird,261.44,Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee
+247,247,Dances with Wolves,1990,PG-13,Adventure,Kevin Costner,184.21,Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant
+248,248,Aladdin,1992,G,Animation,Ron Clements,217.35,Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+249,249,Life of Brian,1979,R,Comedy,Terry Jones,20.05,Graham Chapman, John Cleese, Michael Palin, Terry Gilliam
+250,250,Groundhog Day,1993,PG,Comedy,Harold Ramis,70.91,Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky
