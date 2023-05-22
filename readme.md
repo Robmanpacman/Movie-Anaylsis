@@ -12,3 +12,6 @@ worked on scraping the top 250 grossing movies. learning as i go with HTML and u
 -------------------------------------------------------------------------------------------------------------------------------------
 5/18/23 <br>
 completed scraping the top 250 movies by grossing. really understanding html code now and how to find and extract certain information that i want as well as manipulating said data to the way that i want it presented
+-------------------------------------------------------------------------------------------------------------------------------------
+5/21/23 <br>
+created the database in SQL and also the schema. forward engineered the schema into SQL and then imported the excel datasheet onto the 'top_250' table. made lots of procedures and cleaned up the database quite a bit. really liking the way this project is turning out! can really answer a lot of questions with this information! 
