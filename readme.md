@@ -4,7 +4,7 @@ This project will be about grabbing data off the IMDB website and presenting the
 The questions I want to answer are of the following:
 1. Which movie made the most money?
 2. Which movies made the most money between 2010 - 2020?
-3. What genre is the most common in the top 250?
+3. What genre produced the most gross in the top 250?
 
 These are some questions we can answer using various techinques in Python and SQL. Also presenting our findings with a program like Tableau will make things easier! 
 ---------------------------------------------------------------------------------------------------------
@@ -38,7 +38,7 @@ Which movie made the most money?
 Which movies released in 2010-2020 made the most money?<br>
 ![image](GrossAmount2010.png)
 
-What genre is the most common in the top 250?<br>
+What genre produced the most gross in the top 250?<br>
 ![image](GenreGrossAmount.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
