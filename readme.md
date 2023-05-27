@@ -35,7 +35,7 @@ These tables were filled with data that was pulled from the IMDB website using w
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Which movie made the most money?
-![image](MovieMostGross.png)
+![image](MovieMostGross.png)<br>
 
 Which movies released in 2010-2020 made the most money?
 ![image](GrossAmount2010.png)
