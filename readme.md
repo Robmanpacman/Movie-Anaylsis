@@ -18,3 +18,19 @@ After succesfully scraping the data I want, I cleaned it up a bit in Excel. Maki
 
 ![image](ExcelDataType.png)
 
+Now I can import the data into SQL by saving the Excel sheet into a .csv file! I can use Python to do this but as I was on excel already editing the sheet and making sure the data types were correct, I can just save it with that file extension within excel itself which is a plus. 
+
+Before I import the data, I went ahead and made a model of how the database will be. I want tables to connect with each other and make sense. The movies table is the main table here, as that connects all tables together and its the essential part of this schema. 
+
+![image](RelationalDiagramforDatabase.png)
+
+The schema was made with the neccessary data types for each column, now it was time to foward engineer the schema into an actual database. It was easy to do that with the built-in features that MySQL Workbench has. Once the database is created I then imported the data from the csv file we made into MySQL and these were the results:
+
+![image](MovieTable.png)
+![image](DirectorTable.png)
+![image](ActorsTable.png)
+
+These tables were filled with data that was pulled from the IMDB website using web scraping! Now that I had the data cleaned up, it was ready to analyze and answer some questions.
+
+Which movie made the most money?
+![image](MovieMostGross.png)
