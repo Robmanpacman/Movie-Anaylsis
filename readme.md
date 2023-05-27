@@ -12,5 +12,5 @@ These are some questions we can answer using various techinques in Python and SQ
 ---------------------------------------------------------------------------------------------------------
 I start off this project first with web scraping the IMDB website using python. Using the BeautifulSoup library, I can manipulate and grab the certain HTML elements that I want from the IMDB website like movie rank, movie name, etc.. 
 
-![plot](C:\Users\rober\OneDrive\Desktop\Screenshot_1.png)
+![image](Screenshot_1.png)
 
