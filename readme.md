@@ -40,3 +40,11 @@ Which movie made the most money?
 Which movies released in 2010-2020 made the most money?<br>
 ![image](GrossAmount2010.png)
 
+What genre is the most common in the top 250?<br>
+![image](GenreGrossAmount.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+In conclusion, there are many questions that can be answered from the data that was scraped! There's many more ways to answer the questions using the SQL database as well, it all just depends on what a company wants! 
+
+I hope this project has showcased some of the skills that I possess and I thank you for taking the time to look through my page! 
