@@ -12,7 +12,7 @@ These are some questions we can answer using various techinques in Python and SQ
 ---------------------------------------------------------------------------------------------------------
 I start off this project first with web scraping the IMDB website using python. Using the BeautifulSoup library, I can manipulate and grab the certain HTML elements that I want from the IMDB website like movie rank, movie name, etc.. 
 
-![image](https://prnt.sc/Mnm-ze_h3QcA)
+![image](C:\Users\rober\OneDrive\Documents\GitHub\Movie-Anaylsis\Python Code Screenshot.png)
 
 After succesfully scraping the data I want, I cleaned it up a bit in Excel. Making sure columns have the right data type like for example the 'Gross' has a default data type of 'abc' so I'm chaning it to 'dec' to make it a decimal column type and have an accurate reading when the data is transfered into SQL and Tableau. 
 
