@@ -1,17 +1,16 @@
-# Welcome! <br>
-This project will be about grabbing data off the IMDB website and presenting the data in different programs like SQL and Tableau. I want to show my analysis skills and also manage the database of data with my Data Engineering skills that I have learned. Below is a log of all the commits and changes that I have been doing into this project.<br>
--------------------------------------------------------------------------------------------------------------------------------------
-5/11/23 <br>
-setting up the repository for the project, made a python script that would scrap IMDB top 250 movies and automatically create an excel file that will store the information in there in assorted columns
--------------------------------------------------------------------------------------------------------------------------------------
-5/15/23 <br>
-worked on scraping data from a wikipedia page, specifically for "toy story 2", also started scraping data off imdb for the top 250 movies sorted by gross 
--------------------------------------------------------------------------------------------------------------------------------------
-5/16/23 <br>
-worked on scraping the top 250 grossing movies. learning as i go with HTML and understanding tags 
--------------------------------------------------------------------------------------------------------------------------------------
-5/18/23 <br>
-completed scraping the top 250 movies by grossing. really understanding html code now and how to find and extract certain information that i want as well as manipulating said data to the way that i want it presented
--------------------------------------------------------------------------------------------------------------------------------------
-5/21/23 <br>
-created the database in SQL and also the schema. forward engineered the schema into SQL and then imported the excel datasheet onto the 'top_250' table. made lots of procedures and cleaned up the database quite a bit. really liking the way this project is turning out! can really answer a lot of questions with this information! 
+# Welcome to my Movie Analysis Project! <br>
+This project will be about grabbing data off the IMDB website and presenting the data in different programs like SQL and Tableau. I want to show my analysis skills and also manage the database of data with my Data Engineering skills that I have learned.
+
+The questions I want to answer are of the following:
+1. Which movie made the most money?
+2. Which movies are both in the top 20 in rating and gross?
+3. Which movies made the most money between 2010 - 2020?
+4. Which director has the most movies in the top 250? 
+5. What genre is the most common in the top 250?
+
+These are some questions we can answer using various techinques in Python and SQL. Also presenting our findings with a program like Tableau will make things easier! 
+---------------------------------------------------------------------------------------------------------
+I start off this project first with web scraping the IMDB website using python. Using the BeautifulSoup library, I can manipulate and grab the certain HTML elements that I want from the IMDB website like movie rank, movie name, etc.. 
+
+![plot](C:\Users\rober\OneDrive\Desktop\Screenshot_1.png)
+
