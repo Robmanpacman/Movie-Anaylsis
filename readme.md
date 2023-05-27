@@ -32,5 +32,7 @@ The schema was made with the neccessary data types for each column, now it was t
 
 These tables were filled with data that was pulled from the IMDB website using web scraping! Now that I had the data cleaned up, it was ready to analyze and answer some questions.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Which movie made the most money?
 ![image](MovieMostGross.png)
